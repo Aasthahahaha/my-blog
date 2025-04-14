@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Aasthahahaha/myblog
+  repo: Aasthahahaha/my-blog
   branch: main
 
 media_folder: static/img
